@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "csJcVospsKbav34n2jWApnbx29TIYzDdjJnXvBQr/LH5V4uF6EIJC/+h2qMH90v3Iy6tnhnIHCab4AspxE8XIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dndoa\\source\\repos\\ASPNETCoreJenkinsDemo\\ASPNETCoreJenkinsDemo\\ASPNETCoreJenkinsDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dndoa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
